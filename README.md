@@ -82,7 +82,7 @@ $ curl -X POST http://localhost:5000/alert -H "Content-Type: application/json" -
   "prometheus_url": "http://c0a22169-monitoring:30900/api/v1/query"
 }'
 ```
-### curlを実行したら，以下のようにFlaskアプリを起動した結果の下に表示されます．
+curlを実行したら，以下のようにFlaskアプリを起動した結果の下に表示されます．
 ```
 $ python3 gemini_alert.py 
 ✅ GEMINI_API_KEY が設定されました（長さ: 39）
