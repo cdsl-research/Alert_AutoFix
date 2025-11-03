@@ -66,7 +66,6 @@ WARNING: This is a development server. Do not use it in a production deployment.
  * Running on http://192.168.100.78:5000
 Press CTRL+C to quit
  * Restarting with stat
-✅ GEMINI_API_KEY が設定されました（長さ: 39）
  * Debugger is active!
  * Debugger PIN: 128-429-581
 ```
